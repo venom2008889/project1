@@ -6,7 +6,7 @@ let obj = {};
 console.log(money);
 console.log(time);
 
-
+123 
  let appData = {
    let budjet =  money  ,
    time: ,
